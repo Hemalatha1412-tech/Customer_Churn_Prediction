@@ -193,10 +193,8 @@ jupyter>=1.0
 Final Year MCA Student | CMR Institute of Technology, Bengaluru  
 *Building data-driven solutions for real-world business problems.*
 
-[![LinkedIn](www.linkedin.com/in/hemalatha-s-b572a3292)
-[![GitHub](https://github.com/Hemalatha1412-tech)
-
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/hemalatha-s-b572a3292)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/Hemalatha1412-tech)
 
 ## 📄 License
 
